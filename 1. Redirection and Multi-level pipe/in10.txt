@@ -1,0 +1,18 @@
+ls | sort -r | sort | sort -r | sort | sort -r | sort | sort -r
+
+result:
+tmp_out_then_in.txt
+tmp_out_only.txt
+tmp_in_then_out.txt
+myshell.c
+myshell
+in10.txt
+in09.txt
+in08.txt
+in07.txt
+in06.txt
+in05.txt
+in04.txt
+in03.txt
+in02.txt
+in01.txt

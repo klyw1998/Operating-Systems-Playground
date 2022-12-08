@@ -1,0 +1,4 @@
+ls -l | sort | wc -l
+
+result:
+16
